@@ -49,7 +49,7 @@ const Register = () => {
               })
             }
             onSubmit={() => {
-              navigate('/app/dashboard', { replace: true });
+              navigate('/dashboard/home', { replace: true });
             }}
           >
             {({

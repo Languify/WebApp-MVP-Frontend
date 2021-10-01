@@ -14,7 +14,17 @@ const theme = createTheme({
     },
     text: {
       primary: '#172b4d',
-      secondary: '#6b778c'
+      secondary: '#6b778c',
+      blackvariant: '#666666',
+      green: '#41D7A1',
+      black: '#333333',
+      active: '#2DABFF',
+    },
+    blur: {
+      green: '#41D7A140'
+    },
+    constant: {
+      main: '#41D7A1'
     }
   },
   shadows,
